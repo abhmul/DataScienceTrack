@@ -7,3 +7,6 @@ pillow
 tqdm
 tensorflow
 keras
+ipython
+ipython-notebook
+jupyter
