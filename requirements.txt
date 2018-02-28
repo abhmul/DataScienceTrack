@@ -1,5 +1,6 @@
 pandas
 matplotlib
+scipy
 scikit-learn
 numpy
 scikit-image
@@ -10,3 +11,5 @@ keras
 ipython
 ipython-notebook
 jupyter
+ipykernel
+
