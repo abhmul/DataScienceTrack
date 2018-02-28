@@ -2,7 +2,7 @@ pandas
 matplotlib
 scikit-learn
 numpy
-skimage
+scikit-image
 pillow
 tqdm
 tensorflow
