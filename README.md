@@ -70,7 +70,7 @@ that directory, create a new conda environment to isolate our application
 dependencies from other Python projects.
 
 ```
-conda create --name datascience
+conda create -n datascience pip
 ```
 Activate the virtualenv:this 
 
