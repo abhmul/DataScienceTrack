@@ -15,6 +15,8 @@ The steps below outline how to setup your computer to view and run the code in t
 
 ## Tools needed
 
+Before we start, make sure you understand what **terminal** is. For Linux and Mac users this will be called *terminal*. Windows users have multiple variations that are similar to the Linux and Mac terminal(namely *Command Prompt* and *PowerShell*). However, for this tutorial, we recommend Windows users download and use *Cygwin* (instructions on how to do so are included below). *Cygwin* mimics *terminal* from Linux and Mac. To learn about how to use a *terminal*, try out [Codecademy's tutorial](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command).
+
 Tools We Need
 This tutorial requires Python and JuPyter Notebook. To run our Python code we need:
 
@@ -103,5 +105,8 @@ You should currently still be in the `DataScienceTrack` folder. In here go ahead
 
 ## Running the notebook
 
-
-
+From the folder `DataScienceTrack`, run the command
+```
+jupyter notebook
+```
+This should open a browser tab with JuPyter. You'll see a bunch of files listed. Double-click on `Tutorial.ipynb` to open up the python notebook. The notebook includes interactive code blocks that you can run, modify, and view the output of. To run a cell simply click on it, then click on the *run cell* button in the toolbar at the top (looks sort've like a play button).
