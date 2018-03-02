@@ -78,6 +78,10 @@ Activate the virtualenv:this
 source activate datascience
 ```
 
+Once you activate your env, your terminal should look something like this:
+
+![](imgs/env-example.png)
+
 ### Downloading the code and data
 
 You should currently be in the directory where you want to store this project. Run the following command to clone the data and code into this directory
@@ -94,14 +98,26 @@ We've included a `requirements.txt` file so `pip` knows which packages to instal
 which pip
 ```
 The terminal should print out something along the lines `.../datascience/bin/pip` where the `...` is some stuff specific to your computer. **If this is not the case, flag down a mentor to help you out.** If you're all good, then run the following command (from inside the `DataScience` folder).
+
+![](imgs/which-pip-example.png)
+
 ```
 pip install -r requirements.txt
 ```
-This should go ahead and grab any python packages we need that you don't already have. **If something goes wrong here, make sure to ask for help**.
+This should go ahead and grab any python packages we need that you don't already have. You'll see a lot of output like in the example below. **If something goes wrong here, make sure to ask for help**.
+
+![](imgs/pip-install-example.png)
 
 ## Preparing the data
 
-You should currently still be in the `DataScienceTrack` folder. In here go ahead and extract `data.zip` into a folder called `data`. If you're curious, you can take a look at these data (they are just a bunch of images).
+You should currently still be in the `DataScienceTrack` folder. In here go ahead and extract `data.zip` into a folder called `data`.
+ 
+ ![](imgs/data-structure-example.png)
+ 
+ If you're curious, you can take a look at these data. They are just a bunch of images of handwritten digits in different folders named by what digit is in the folder.
+ 
+ ![](imgs/data-format-example.png)
+ 
 
 ## Running the notebook
 
@@ -109,4 +125,10 @@ From the folder `DataScienceTrack`, run the command
 ```
 jupyter notebook
 ```
-This should open a browser tab with JuPyter. You'll see a bunch of files listed. Double-click on `Tutorial.ipynb` to open up the python notebook. The notebook includes interactive code blocks that you can run, modify, and view the output of. To run a cell simply click on it, then click on the *run cell* button in the toolbar at the top (looks sort've like a play button).
+This should open a browser tab with JuPyter. 
+
+![](imgs/jupyter-dashboard-example.png)
+
+You'll see a bunch of files listed. Double-click on `Tutorial.ipynb` to open up the python notebook. The notebook includes interactive code blocks that you can run, modify, and view the output of. To run a cell simply click on it, then click on the *run cell* button in the toolbar at the top (looks sort've like a play button).
+
+![](imgs/jupyter-notebook-example.png)
