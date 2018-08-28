@@ -100,3 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 /data
+
+CV/data/
+
+CV/\.DS_Store
+
+\.DS_Store
