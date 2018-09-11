@@ -106,3 +106,7 @@ CV/data/
 CV/\.DS_Store
 
 \.DS_Store
+
+NLP/__MACOSX/
+
+NLP/imdb_dataset/
