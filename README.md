@@ -117,7 +117,7 @@ pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorfl
 # Linux
 pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.10.1-cp36-cp36m-linux_x86_64.whl
 ```
-**If you're running Windows, the installation is very complicated. We recommend downloading [Anaconda for Python3.6](https://www.anaconda.com/download/#windows) and running the normal installation in this README.
+**If you're running Windows, the installation is very complicated. We recommend downloading [Anaconda for Python3.6](https://www.anaconda.com/download/#windows) and running the normal installation in this README.**
 
 We've included a `requirements.txt` file so `pip` knows which packages to install. To make sure we're using the right `pip` (the one associated with our virtual environment) run
 ```
