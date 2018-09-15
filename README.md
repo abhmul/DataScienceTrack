@@ -12,8 +12,9 @@ These tutorials will give you a brief introduction into some basic applications 
 Below we have instructions for getting started with our [beginner data science tutorial](https://github.com/abhmul/DataScienceTrack/blob/master/CV/Tutorial.ipynb) about a famous computer vision problem. In addition, we have several other tutorials:
 
 * [Natural Language Processing Tutorial]((https://github.com/abhmul/DataScienceTrack/blob/master/NLP/IMDB.ipynb)
-* [Deep Reinforcement Learning Tutorial w/ Tensorflow]()
-* [Neural Style Transfer Tutorial w/ Tensorflow]()
+* [Deep Reinforcement Learning Tutorial w/ Tensorflow](https://medium.com/tensorflow/deep-reinforcement-learning-playing-cartpole-through-asynchronous-advantage-actor-critic-a3c-7eab2eea5296)
+* [Neural Style Transfer Tutorial w/ Tensorflow](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
+* [Image Segmentation](https://github.com/tensorflow/models/blob/master/samples/outreach/blogs/segmentation_blogpost/image_segmentation.ipynb)
 
 ### Prompt
 
