@@ -9,6 +9,22 @@ Well these are all applications of Data Science. Over the last few years Data Sc
 
 These tutorials will give you a brief introduction into some basic applications of machine learning and data science along with example prompts to compete in this track. To compete though, any data science project will do.
 
+Below we have instructions for getting started with our [beginner data science tutorial](https://github.com/abhmul/DataScienceTrack/blob/master/CV/Tutorial.ipynb) about a famous computer vision problem. In addition, we have several other tutorials:
+
+* [Natural Language Processing Tutorial]((https://github.com/abhmul/DataScienceTrack/blob/master/NLP/IMDB.ipynb)
+* [Deep Reinforcement Learning Tutorial w/ Tensorflow]()
+* [Neural Style Transfer Tutorial w/ Tensorflow]()
+
+### Prompt
+
+As long as your project uses some application of data science or machine learning, anything goes! If you're looking for some specific prompts, check out the prompts and links at the bottom of our beginner tutorial. They include
+
+* prompts
+* datasets
+* ideas on how to get started
+
+In addition, the [Google Dataset Search](https://toolbox.google.com/datasetsearch) is a great resource to find public datasets!
+
 ### A Quick Note on the Beginner Tutorial
 
 The steps below outline how to setup your computer to view and run the code in this repository using JuPyter Notebook. If you just want to read through the tutorial, you can [view the beginner notebook online through GitHub](https://github.com/abhmul/DataScienceTrack/blob/master/CV/Tutorial.ipynb)
