@@ -110,6 +110,15 @@ You should now have a folder called `DataScienceTrack`. Change your directory in
 
 ### Installing necessary packages
 
+**Note: If you're using python3.7, Tensorflow has not released a package yet, so if you are an Mac or Linux you can run:**
+```bash
+# MacOS
+pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.1-py3-none-any.whl  e inst
+# Linux
+pip install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.10.1-cp36-cp36m-linux_x86_64.whl
+```
+**If you're running Windows, the installation is very complicated. We recommend downloading [Anaconda for Python3.6](https://www.anaconda.com/download/#windows) and running the normal installation in this README.
+
 We've included a `requirements.txt` file so `pip` knows which packages to install. To make sure we're using the right `pip` (the one associated with our virtual environment) run
 ```
 which pip
