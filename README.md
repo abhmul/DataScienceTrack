@@ -7,11 +7,11 @@ Have you ever looked for shoes online and found related advertisements on facebo
 
 Well these are all applications of Data Science. Over the last few years Data Science has really changed our concept of technology. Our lives are a lot easier as compared to 10yrs ago, and this is all because of data science. Data Science has really pulled the ends between fiction and technology. Right from LinkedIn to Tinder, data science is being used everywhere.
 
-This tutorial will give you a brief introduction into some basic applications of machine learning and data science along with example prompts to compete in this track. To compete though, any data science project will do.
+These tutorials will give you a brief introduction into some basic applications of machine learning and data science along with example prompts to compete in this track. To compete though, any data science project will do.
 
-### A Quick Note on this Tutorial
+### A Quick Note on the Beginner Tutorial
 
-The steps below outline how to setup your computer to view and run the code in this repository using JuPyter Notebook. If you just want to read through the tutorial, you can [view the notebook online through GitHub](https://github.com/abhmul/DataScienceTrack/blob/master/Tutorial.ipynb)
+The steps below outline how to setup your computer to view and run the code in this repository using JuPyter Notebook. If you just want to read through the tutorial, you can [view the beginner notebook online through GitHub](https://github.com/abhmul/DataScienceTrack/blob/master/CV/Tutorial.ipynb)
 
 ## Tools needed
 
